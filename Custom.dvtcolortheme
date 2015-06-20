@@ -30,6 +30,40 @@
 	<string>0.243 0.276 0.277 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.162919 0.164962 0.183484 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.229885 0.231765 0.248806 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>Menlo-Regular - 10.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>0.912411 0.912586 0.912381 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.HelveticaNeueDeskInterface-Italic - 10.0</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.303504 0.481813 0.836735 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 10.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0.912411 0.912586 0.912381 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 10.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>0.912411 0.912586 0.912381 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 14.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>0.912411 0.912586 0.912381 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 24.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>0.912411 0.912586 0.912381 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.HelveticaNeueDeskInterface-Regular - 18.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>0.912411 0.912586 0.912381 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.HelveticaNeueDeskInterface-Bold - 10.0</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.0901291 0.0923505 0.112483 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -37,7 +71,7 @@
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.5 0.5 0.5 1</string>
+	<string>0.424674 0.424661 0.424669 1</string>
 	<key>DVTSourceTextSelectionColor</key>
 	<string>0.243 0.276 0.277 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
@@ -51,19 +85,19 @@
 		<key>xcode.syntax.comment.doc</key>
 		<string>0 0.501961 0 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.274752 0.774987 0.253142 1</string>
+		<string>0.244656 0.775872 0.204662 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.76463 0.765306 0.364033 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.265111 0.550938 0.806122 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.76463 0.765306 0.364033 1</string>
+		<string>0.476884 0.48349 0.204275 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.265111 0.550938 0.806122 1</string>
+		<string>0.182749 0.39917 0.63926 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.721136 0.731279 0.299238 1</string>
+		<string>0.476884 0.48349 0.204275 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.265111 0.550938 0.806122 1</string>
+		<string>0.182749 0.39917 0.63926 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.778 0.488 0.284 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>

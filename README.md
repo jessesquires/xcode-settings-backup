@@ -7,5 +7,7 @@ My Xcode theme
 ### Install
 
 ````bash
-$ cp ./install.sh
+$ git clone https://github.com/jessesquires/xcode-theme
+$ cd xcode-theme/
+$ ./install.sh
 ````
