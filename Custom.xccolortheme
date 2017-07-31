@@ -30,6 +30,8 @@
 	<string>0.364826 0.423624 0.424568 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.162919 0.164962 0.183484 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -134,11 +136,11 @@
 		<key>xcode.syntax.character</key>
 		<string>SFMono-Regular - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-RegularItalic - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-RegularItalic - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-RegularItalic - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>SFMono-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
