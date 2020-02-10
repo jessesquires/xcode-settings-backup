@@ -1,13 +1,9 @@
-#xcode-theme
+# xcode-settings-backup
 
-My Xcode theme
+*Backup of my Xcode configuration and various settings*
 
-<img src="https://raw.githubusercontent.com/jessesquires/xcode-theme/master/screenshot.png" width="40%" height="auto" />
+### Contents
 
-### Install
-
-````bash
-$ git clone https://github.com/jessesquires/xcode-theme
-$ cd xcode-theme/
-$ ./install.sh
-````
+- Xcode color theme
+- Default [header file template](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
+- Saved [user breakpoints](https://pspdfkit.com/blog/2017/user-breakpoints-in-xcode/)
