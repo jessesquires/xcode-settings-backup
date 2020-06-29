@@ -28,8 +28,12 @@
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.317647 0.356862 0.439215 1</string>
+	<key>DVTCursor</key>
+	<integer>2</integer>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
 	<key>DVTFontSizeModifier</key>
 	<integer>-1</integer>
 	<key>DVTLineSpacing</key>
@@ -108,6 +112,10 @@
 		<string>0.423943 0.474618 0.525183 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.573795 0.632407 0.695829 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.254902 0.631373 0.752941 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.362946 0.846428 0.998966 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.567993 0.832122 0.384498 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -134,6 +142,10 @@
 		<string>0.477164 0.786074 0.71403 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.988394 0.37355 0.638329 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.572549 0.631373 0.694118 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.665 0.052 0.569 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.587518 0.527167 0.959484 1</string>
 		<key>xcode.syntax.plain</key>
@@ -157,6 +169,10 @@
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -183,10 +199,14 @@
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.keyword</key>
 		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.number</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.string</key>

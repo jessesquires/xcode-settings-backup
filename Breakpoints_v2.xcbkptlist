@@ -46,7 +46,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
          <BreakpointContent
             uuid = "A681D6EE-02E4-4268-A024-DEDAEF869040"
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "Yes"
             symbolName = "-[UIViewController viewDidAppear:]"
@@ -69,7 +69,7 @@
             <Locations>
                <Location
                   uuid = "A681D6EE-02E4-4268-A024-DEDAEF869040 - ade5d303d30d7f37"
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "-[UIViewController viewDidAppear:]"
